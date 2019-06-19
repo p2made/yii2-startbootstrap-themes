@@ -21,7 +21,7 @@
 		}
 	],
 
-	"version": "bs4-beta",
+	"version": "dev-bs4-beta",
 	"minimum-stability": "dev",
 
 	"require": {
